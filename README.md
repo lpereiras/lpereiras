@@ -14,7 +14,7 @@ Right below are pinned some personal projects that I'm currently working with an
 I've antecipated a README file for each project that can guide you through what I already did! Really hope you like it!
 </br>
 </br>
-And If you like to contact me please feel free to reach out via:
+And If you want to contact me please feel free to reach out via:
 </br>
 </br> 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/luscape/)](https://www.linkedin.com/in/luscape/) 
