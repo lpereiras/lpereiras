@@ -2,7 +2,7 @@
 
 Happy that you're here! This is where I have some showcase of my practical skills as a proactive QA Engineer! 
 </br>
-Right up here are pinned some personal projects that I'm currently working with and since I don't want you to waiting for me finishing all the funny part like:
+Right below are pinned some personal projects that I'm currently working with and since I don't want you to waiting for me finishing all the funny part like:
 
 * Build independent Unit, Integration and E2E tests 
 * Use design patterns to make code clear and easily maintainable
