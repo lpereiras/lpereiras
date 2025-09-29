@@ -15,5 +15,6 @@ Right below are pinned some personal projects that I'm currently working with to
 And If you want to contact me please feel free to reach out via:
 </br>
 </br> 
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/luscape/)](https://www.linkedin.com/in/luscape/) 
 [![Gmail Badge](https://img.shields.io/badge/-lpereira.qa@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:lpereira.qa@gmail.com)](mailto:lpereira.qa@gmail.com)
